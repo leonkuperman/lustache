@@ -1,4 +1,6 @@
 # lustache - Logic-less {{mustache}} templates with Lua
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Flustache.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Flustache?ref=badge_shield)
+
 
 > What could be more logical awesome than no logic at all?
 
@@ -378,3 +380,6 @@ contributors. <3
 ## License
 
 MIT licensed. View LICENSE file for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Flustache.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Flustache?ref=badge_large)
